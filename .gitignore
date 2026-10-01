@@ -1,7 +1,5 @@
-node_modules
-.vercel
-.tanstack
-screenshots
-attachments
-artifacts
-*.log
+node_modules/
+.project_id
+.github_repo
+.env
+.env.*
